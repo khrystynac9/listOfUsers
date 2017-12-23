@@ -1,0 +1,25 @@
+div.cell {
+    display: inline-block;
+    width: 170px;
+    height: 30px;
+    background-color: rgb(237, 240, 224);
+    border: 1px solid black;
+    padding-top: 10px;
+    margin: 13px;
+    text-align: center;
+}
+#main {
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgb(217, 189, 243);
+    border: 1px solid black;
+    padding: 10px;
+}
+div.limitClass {
+    margin: 13px;
+}
+button.addEmployee {
+    width: 370px;
+    margin: 13px;
+}
